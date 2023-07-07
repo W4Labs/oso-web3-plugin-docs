@@ -66,7 +66,7 @@ The `useAccount` hook returns an account object with various properties related 
 
 ## 3. Reading Smart Contract Variables
 
-The `useContractRead` hook from the Wagmi library allows you to fetch data from smart contracts without changing the state. For detailed usage instructions and examples, consult the [useContractRead documentation](https://wagmi.sh/react/hooks/useContractRead).
+The `useContractRead` hook from the Wagmi library lets you fetch data from smart contracts without changing the state. For detailed usage instructions and examples, consult the [useContractRead documentation](https://wagmi.sh/react/hooks/useContractRead).
 
 ```javascript
 import { useContractRead } from 'wagmi';
@@ -162,3 +162,5 @@ Utilize the `useToken` hook to fetch and display information about an ERC20 toke
 Now that you have a clear understanding of the different features and hooks provided by the OSO Web3 plugin in combination with the Wagmi library, you can seamlessly integrate web3 functionality into your frontend application. Happy coding!
 
 For more detailed information and examples, be sure to consult the documentation for each specific hook provided by the Wagmi library.
+
+We'll have tech team members present to address any questions at the event.
