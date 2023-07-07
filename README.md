@@ -163,4 +163,6 @@ Now that you have a clear understanding of the different features and hooks prov
 
 For more detailed information and examples, be sure to consult the documentation for each specific hook provided by the Wagmi library.
 
+The /pages folder contains example pages used for WEB3 transactions on OSO
+
 We'll have tech team members present to address any questions at the event.
